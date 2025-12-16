@@ -1,0 +1,12 @@
+[ref]
+default_bits = 2048
+prompt = no
+default_md = sha256
+distinguished_name = dn
+
+[dn]
+C=US
+L=Location
+O=Organization
+OU=Organization Unit
+CN=localhost
